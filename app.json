@@ -39,7 +39,7 @@
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value": "https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg",
+      "value": "https://i.ibb.co/g78wQN8/IMG-20241116-WA0005.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
