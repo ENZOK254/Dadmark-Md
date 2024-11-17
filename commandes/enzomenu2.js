@@ -6,7 +6,7 @@ const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
 
-zokou({ nomCom: "menu2", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "menu1", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -47,7 +47,7 @@ const date = moment().format('DD/MM/YYYY');
     
 let menuMsg = `
 ╭──────────✇
-   *ENZO-V1.0.0*
+   *ENZO-V2.0.0*
 ╰──────────✇
 
  *❄︎AVAILABLE COMMANDS❄︎*
