@@ -1,6 +1,6 @@
 {
-  "name": "Zokou-2.0",
-  "description": "bot whatsapp développé par djalega++",
+  "name": "enzo v2",
+  "description": "bot whatsapp enzo v2",
   "keywords": [
     "bot",
     "node",
@@ -63,12 +63,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "Djalega++"
+      "value": "enzo"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "22891733300"
+      "value": "254784115308"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
