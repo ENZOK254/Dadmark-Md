@@ -6,7 +6,7 @@ const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
 
-zokou({ nomCom: "menu1", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧〈 *ENZO BOT* 〉 ✧───◆
+╭────✧〈 *𝐄𝐍𝐙𝐎 𝐕2* 〉 ✧───◆
 ┴╭─────────────☹︎
 𓄂│▸ *Date* : ${date}
 𓄂│▸ *User* : ${s.OWNER_NAME}
@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
 𓄂│▸ *Platform* : ${os.platform()}
 𓄂│▸ *Theme* : *ENZO*
 ┬╰──────────────☹︎
-╰─── ···▸💙MASTERMIND 💙··──◆\n\n`;
+╰─── ···▸💙𝐦𝐚𝐬𝐭𝐞𝐫𝐦𝐢𝐧𝐝💙··──◆\n\n`;
     
 let menuMsg = `
 ╭──────────✇
