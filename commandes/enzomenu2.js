@@ -34,20 +34,20 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 ╭────✧〈 *𝐄𝐍𝐙𝐎 𝐕2* 〉 ✧───◆
 ┴╭─────────────☹︎
-𓄂│▸ *Date* : ${date}
-𓄂│▸ *User* : ${s.OWNER_NAME}
-𓄂│▸ *Prefix* : ${s.PREFIXE}
-𓄂│▸ *Mode* : ${mode}
-𓄂│▸ *Commands* : ${cm.length} 
-𓄂│▸ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-𓄂│▸ *Platform* : ${os.platform()}
-𓄂│▸ *Theme* : *ENZO*
+💜│▸ *Date* : ${date}
+💙│▸ *User* : ${s.OWNER_NAME}
+💙│▸ *Prefix* : ${s.PREFIXE}
+💙│▸ *Mode* : ${mode}
+💙│▸ *Commands* : ${cm.length} 
+💙│▸ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+💙│▸ *Platform* : ${os.platform()}
+💙│▸ *Theme* : *ENZO*
 ┬╰──────────────☹︎
-╰─── ···▸💙𝐦𝐚𝐬𝐭𝐞𝐫𝐦𝐢𝐧𝐝💙··──◆\n\n`;
+╰─── ···▸💙𝙉𝙚𝙫𝙚𝙧 𝙜𝙞𝙫𝙚 𝙪𝙥💙··──◆\n\n`;
     
 let menuMsg = `
 ╭──────────✇
-   *ENZO-V2.0.0*
+   *𝔼ℕℤ𝕆-𝕍2.0.0*
 ╰──────────✇
 
  *❄︎AVAILABLE COMMANDS❄︎*
@@ -66,7 +66,7 @@ let menuMsg = `
     menuMsg += `
 ◇            ◇
 *»»————————— ★ ——————————««*
-> ENZO-V2 CREATED BY ENZO
+> 𝙀𝙉𝙕𝙊-𝙑2 𝘾𝙍𝙀𝘼𝙏𝙀𝘿 𝘽𝙔 𝙀𝙉𝙕𝙊
 *»»—————————— ★ ——————————««*
 `;
 
