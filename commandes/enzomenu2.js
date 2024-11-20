@@ -34,16 +34,16 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 ╭────✧〈 *𝐄𝐍𝐙𝐎 𝐕2* 〉 ✧───◆
 ┴╭─────────────☹︎
-💜│▸ *Date* : ${date}
-💙│▸ *User* : ${s.OWNER_NAME}
-💙│▸ *Prefix* : ${s.PREFIXE}
-💙│▸ *Mode* : ${mode}
-💙│▸ *Commands* : ${cm.length} 
-💙│▸ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-💙│▸ *Platform* : ${os.platform()}
-💙│▸ *Theme* : *ENZO*
+☯️│▸ *Date* : ${date}
+☯️│▸ *User* : ${s.OWNER_NAME}
+☯️│▸ *Prefix* : ${s.PREFIXE}
+☯️│▸ *Mode* : ${mode}
+☯️│▸ *Commands* : ${cm.length} 
+☯️│▸ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+☯️│▸ *Platform* : ${os.platform()}
+☯️│▸ *Theme* : *ENZO*
 ┬╰──────────────☹︎
-╰─── ···▸💙𝙉𝙚𝙫𝙚𝙧 𝙜𝙞𝙫𝙚 𝙪𝙥💙··──◆\n\n`;
+╰─── ···▸🌟𝙉𝙚𝙫𝙚𝙧 𝙜𝙞𝙫𝙚 𝙪𝙥🌟··──◆\n\n`;
     
 let menuMsg = `
 ╭──────────✇
