@@ -854,7 +854,7 @@ ${metadata.desc}`;
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╔════◇
-║ 『ENZO MD』
+║ 『DADMARK MD』
 ║    Prefix : [ ${prefixe} ]
 ║    Mode :${md}
 ║    Total Commandes : ${evt.cm.length}︎
@@ -862,7 +862,7 @@ ${metadata.desc}`;
 
 ╔═════◇
 
-> THANK YOU FOR LOVING ENZO MD 
+> THANK YOU FOR LOVING DADMARK MD 
 
 ╚══════════════════╝`;
                 await zk.sendMessage( zk.user.id, { text: cmsg });
