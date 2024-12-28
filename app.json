@@ -1,5 +1,5 @@
 {
-  "name": "enzo v2",
+  "name": "dadmark md",
   "description": "bot whatsapp enzo v2",
   "keywords": [
     "bot",
@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://i.ibb.co/7YNDTNk/IMG-20241115-WA0127.jpg",
+  "logo": "https://i.ibb.co/dgMzYFz/IMG-20241228-WA0061.jpg",
   "repository": "https://github.com/ENZOK254/ENZO-V2",
   "succes_url": "/",
   "stack": "container",
@@ -34,12 +34,12 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "ENZO-V2",
+      "value": "Dadmark-md",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value": "https://i.ibb.co/g78wQN8/IMG-20241116-WA0005.jpg",
+      "value": "https://i.ibb.co/dgMzYFz/IMG-20241228-WA0061.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -63,12 +63,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "enzo"
+      "value": "dadmark"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "254784115308"
+      "value": "254714342128"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
