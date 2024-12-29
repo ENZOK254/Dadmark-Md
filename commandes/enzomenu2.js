@@ -41,7 +41,7 @@ const date = moment().format('DD/MM/YYYY');
 ☯️│▸ *Commands* : ${cm.length} 
 ☯️│▸ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ☯️│▸ *Platform* : ${os.platform()}
-☯️│▸ *Theme* : *ENZO*
+☯️│▸ *Theme* : *DADMARK*
 ┬╰──────────────☹︎
 ╰─── ···▸🌟𝙉𝙚𝙫𝙚𝙧 𝙜𝙞𝙫𝙚 𝙪𝙥🌟··──◆\n\n`;
     
